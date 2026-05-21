@@ -120,7 +120,7 @@ Data sourced from Yahoo Finance via yfinance and Investing.com.
 
 ## Appendix
 
-**GitHub Repository:** [To be added after publishing]
+**GitHub Repository:** [JSE Sector Momentum](https://github.com/tmaswedza/jse-sector-momentum)
 
 **Tools Used:**
 - Python 3.13.7
